@@ -1,0 +1,12 @@
+Requirements
+easyocr
+Python
+Pandas
+Streamlit
+matplotlib
+matplotlib.pyplot
+Numpy
+Pymysql
+Notebook
+streamlit_option_menu
+Pillow
