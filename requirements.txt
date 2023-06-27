@@ -7,4 +7,4 @@ PyMySQL==1.0.2
 notebook==6.4.12
 streamlit_option_menu==0.3.6
 Pillow==9.5.0
-mysql-connector-python==8.0.32
+mysql.connector==2.2.9
