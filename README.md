@@ -2,7 +2,8 @@
 Extracting Business Card Data with OCR
 This is a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information includes the company name, card holder name, designation, mobile number, email address, website URL, area, city, state, and pin code. The application also provides functionality to save the extracted information into a database along with the uploaded business card image. Users can perform Read, Update, and Delete operations on the data through the Streamlit user interface.
 
-**Problem Statement**
+**Problem Statement:**
+
 I have been tasked with developing a Streamlit application that allows users to upload an image of a business card and extract relevant information from it using easyOCR. The extracted information should include the following fields:
 
 Company Name
@@ -19,7 +20,8 @@ The application should display the extracted information in a graphical user int
 
 To achieve this, the application will use Python, Streamlit, easyOCR, and a database management system like SQLite or MySQL. The project requires skills in image processing, OCR, GUI development, and database management. Good documentation and code organization are also important.
 
-**Approach**
+**Approach:**
+
 To develop the Business Card OCR Application, the following approach will be followed:
 
 Install the required packages: Install Python, Streamlit, easyOCR, and a database management system like SQLite or MySQL.
@@ -36,7 +38,8 @@ Test the application: Thoroughly test the application to ensure it works as expe
 
 Improve the application: Continuously improve the application by adding new features, optimizing the code, and fixing bugs. Additional enhancements such as user authentication and authorization can be implemented to enhance security.
 
-**Usage**
+**Usage:**
+
 Follow the steps below to use the Business Card OCR Application:
 
 Install the required packages by running pip install -r requirements.txt.
@@ -55,7 +58,8 @@ Use the provided options to save, update, or delete the extracted information in
 
 Explore the application and its features to manage business card data efficiently.
 
-**Future Enhancements**
+**Future Enhancements:**
+
 The Business Card OCR Application can be further improved with the following enhancements:
 
 Add user authentication and authorization to secure the application.
@@ -66,5 +70,6 @@ Enable exporting the extracted information to various formats (e.g., CSV, Excel)
 Implement data analytics and visualization features for business card data insights.
 Feel free to contribute to the application by adding new features or suggesting improvements.
 
-**Conclusion**
+**Conclusion:**
+
 The Business Card OCR Application allows users to extract relevant information from business card images using easyOCR. The application provides a user-friendly interface for uploading images, extracting information, and managing the data in a database. It demonstrates the integration of Python, Streamlit, easyOCR, and a database management system to create a scalable, maintainable, and extensible solution. By following the provided usage instructions and considering future enhancements, users can efficiently handle business card data.
