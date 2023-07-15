@@ -23,7 +23,7 @@ setting_bg()
 
 #connection to My SQL DB
 mydb = sql.connect(
-  host="localhost",
+  host= 192.168.247.193,
   user="root",
   password="admin123",
   database="BizCardX"
